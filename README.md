@@ -1,7 +1,7 @@
 # ytd-menu
 simple yt-dlp script for video and audio
 
-Use latest yt-dlp nightly build
+[!TIP Use latest yt-dlp nightly build]
 Open terminal and paste command
 ```
 pipx uninstall yt-dlp
