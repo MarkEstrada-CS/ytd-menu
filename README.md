@@ -11,7 +11,7 @@ pipx install yt-dlp --pip-args=\"--pre\"
 cd to script directory
 ```
 #example
-cd /home/hotdog/Documents/
+cd /home/$USER/Documents/
 ```
 Give script permission to execute then run
 
